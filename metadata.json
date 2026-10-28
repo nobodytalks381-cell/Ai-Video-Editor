@@ -1,0 +1,6 @@
+{
+  "name": "CutShut Studio",
+  "description": "AI-powered e-commerce commercial video editor that ingests a local product folder, voiceover, and clips to cut fast-paced 9:16 1080p 60fps vertical ads with breath-free J-cut pacing, end-of-video Comment CTA overlays, and a multi-track manual timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
